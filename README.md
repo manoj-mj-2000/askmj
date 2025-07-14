@@ -36,7 +36,7 @@ AskMJ/
 │ ├── appsettings.Template.json
 │
 ├── frontend/ # React frontend
-│ ├── src/
+│ ├── src/ 
 │ ├── public/
 │ ├── .env.example
 │ └── package.json
