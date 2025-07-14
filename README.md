@@ -26,24 +26,6 @@ AskMJ is a full-stack Question & Answer web application inspired by platforms li
 
 ---
 
-## 📂 Folder Structure
-AskMJ/
-├── backend/ # ASP.NET Core API
-│ ├── Controllers/
-│ ├── Models/
-│ ├── Services/
-│ ├── Program.cs
-│ ├── appsettings.Template.json
-│
-├── frontend/ # React frontend
-│ ├── src/ 
-│ ├── public/
-│ ├── .env.example
-│ └── package.json
-
-
----
-
 ## 🔐 Features
 
 - ✅ User registration & login (JWT)
