@@ -1,0 +1,14 @@
+# Frontend
+/ask-mj-frontend/node_modules/
+/ask-mj-frontend/.env
+/ask-mj-frontend/build/
+
+# Backend
+/ask-mj-backend/bin/
+/ask-mj-backend/obj/
+/ask-mj-backend/appsettings.json
+
+# Common
+*.log
+.DS_Store
+.env

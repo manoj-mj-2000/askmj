@@ -1,0 +1,47 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: gold;
+}
+
+.formBox {
+  max-width: 600px;
+  margin-top: 20px;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+textarea {
+  resize: vertical;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: gold;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #005fa3;
+}

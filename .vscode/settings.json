@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fca56955-9527-40dc-b58b-317ac8944a63/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ask-mj-backend",
+    "appService.deploySubpath": "ask-mj-backend"
+}

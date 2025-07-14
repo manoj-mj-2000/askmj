@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "What is Stack Overflow?",
+    "description": "Can someone explain what Stack Overflow is?",
+    "votes":1
+  },
+  {
+    "id": "2",
+    "title": "How to use fetch in React?",
+    "description": "I want to call an API using fetch.",
+    "votes":2
+  }
+]

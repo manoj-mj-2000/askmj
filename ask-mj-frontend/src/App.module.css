@@ -1,0 +1,43 @@
+.navbar {
+  padding: 10px 20px;
+  background-color: gold;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.navLink {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.navLink:hover {
+  text-decoration: underline;
+}
+
+.welcomeText {
+  margin-left: auto;
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+
+.logoutButton {
+  background: #c00;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.logoutButton:hover {
+  background: #900;
+}
+
+body{
+    background-color: black;
+}

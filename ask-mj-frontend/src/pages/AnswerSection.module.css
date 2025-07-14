@@ -1,0 +1,71 @@
+.formContainer {
+  max-width: 600px;
+  margin: 20px 0;
+}
+
+.textarea {
+  width: 100%;
+  padding: 20px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: vertical;
+}
+
+.button {
+  margin: 10px;
+  padding: 10px 10px;
+  background-color: gold;
+  color: black;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
+
+.message {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.answerList {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 30px;
+}
+
+.answerItem {
+  margin-bottom: 15px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.answerMeta {
+  font-size: 12px;
+  color: #baacac;
+}
+
+.voteButtons {
+  margin-top: 5px;
+}
+
+.voteButtons button {
+  margin: 0 5px;
+  font-size: 16px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+h3{
+  color: gold;
+}
+.answerList {
+  list-style-type: disc;
+  padding-left: 20px;
+}

@@ -1,0 +1,43 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: gold;
+}
+
+.title {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.questionList {
+  list-style: none;
+  padding: 0;
+}
+
+.questionItem {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  background-color: black;
+}
+
+.questionItem h3 {
+  margin-bottom: 5px;
+}
+
+.viewLink {
+  display: inline-block;
+  margin-top: 5px;
+  color: #007acc;
+  text-decoration: none;
+}
+
+.viewLink:hover {
+  text-decoration: underline;
+}
+
+.emptyMessage {
+  font-style: italic;
+  color: #d2b9b9;
+}
